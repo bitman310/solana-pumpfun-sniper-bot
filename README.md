@@ -2,9 +2,9 @@
 Pumpfun Sniper Bot is a fully automated trading tool tailored for Pump.fun. It tracks new token creation events, executes buy orders, and sells tokens automatically after a user-defined delay. The bot is easy to configure and can be customized through environment variables.
 
 ## Contact me
-Telegram: [@diasibt](https://t.me/@diasibt)
+Telegram: [@Ljubomir Igic](https://t.me/@ljubomir_igic)
 
-Discord: [@dias_ishbulatov](https://discordapp.com/users/1213745904599961631)
+Discord: [@Ljubomir Igic](https://www.linkedin.com/in/ljubomir-igic-6a9615340)
 
 ## Features
 
